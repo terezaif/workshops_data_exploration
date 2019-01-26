@@ -22,6 +22,17 @@ Usually we try to compare a variable to another, for example height with age, th
 For plotting different data distributions look at the notebook in [Data Details and Relationships](notebooks/part_1/visualise_relationships.ipynb).
 
 ## Part 2: Distributions
+Understanding of the data distribution is importat, since it is empovering better models, proper tests, easier modelling process. For following 5 distributions we will show histogram, violine plot and qq-plot where it makes sense. We will explain how to make hypothesis about the distribution family based on the information from the graphs.
+Distributions are:
+- Normal (Continuous, symmetrical, symmetrical tails, no shift, no skew, two-sided)
+- Student (Continuous, similar to normal, but has fatter tails)
+- Binomial (Descrete, symmetrical, with a lot of trials resembles normal distribution)
+- Poisson (Descrete, not symmetrical, one-sided)
+- Exponential (Continuous, not symmetrcial, one-sided, based-of-poisson)
+- Weibull (Continuous, shape-shifting, based-of-exponential/poisson)
+
+As the excercise plot the graphs for the given data sets (dataX from the last 2 cells of the notebook) and try to identify the distribution behind it.
+
 
 ## Part 3: Case Study
 We explore the [New York City Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration) dataset from kaggle and focus mainly on: 
