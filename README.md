@@ -45,7 +45,7 @@ You can also work directly on kaggle (if you create a kaggle account) by forking
 
 
 
-## Part 4: PCA [Slides](part_4/Exploratory Data Analysis Workshop.pdf)
+## Part 4: PCA [Slides](part_4/Exploratory%20Data%20Analysis%20Workshop.pdf)
 
 Principal Component Analysis is a unsupervised machine learning technique used for multivariable exploratory data analysis and dimensionality reduction.
 
