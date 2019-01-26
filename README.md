@@ -5,7 +5,7 @@ In the second part we go in more detail on distributions, we go through the most
 In the third part we go through the NYC taxi dataset and explore data and clean and transform and see how this already helps with getting better models.
 In the last part we will look at what we do with high dimensionality data and how PCA works and how we can use it.
 
-## Part 1: Looking at the data
+## Part 1: Looking at the data [Slides](part_1/slides_1.pdf)
 
 In summary and in detail. For summary look we have two main ways: histogram and 5 number summary, which is visualised as a boxplot. 
 
@@ -45,7 +45,7 @@ You can also work directly on kaggle (if you create a kaggle account) by forking
 
 
 
-## Part 4: PCA
+## Part 4: PCA (Slides)[part_4/Exploratory Data Analysis Workshop.pdf]
 
 Principal Component Analysis is a unsupervised machine learning technique used for multivariable exploratory data analysis and dimensionality reduction.
 
