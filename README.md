@@ -21,7 +21,7 @@ Usually we try to compare a variable to another, for example height with age, th
 
 For plotting different data distributions look at the notebook in [Data Details and Relationships](notebooks/part_1/visualise_relationships.ipynb).
 
-## Part 2: Distributions
+## Part 2: Distributions [Slides](part_2/distribution_presentation.pdf)
 Understanding of the data distribution is importat, since it is empovering better models, proper tests, easier modelling process. For following 5 distributions we will show histogram, violine plot and qq-plot where it makes sense. We will explain how to make hypothesis about the distribution family based on the information from the graphs.
 Distributions are:
 - Normal (Continuous, symmetrical, symmetrical tails, no shift, no skew, two-sided)
