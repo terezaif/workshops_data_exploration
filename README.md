@@ -50,3 +50,5 @@ You can also work directly on kaggle (if you create a kaggle account) by forking
 Principal Component Analysis is a unsupervised machine learning technique used for multivariable exploratory data analysis and dimensionality reduction.
 
 Even though is a well established technique, its foundations are still explained in broken parts in the internet. This tutorial intends to join all the theoritical side and show how it connects with the practical applications.
+
+Notebook [https://bit.ly/2UhS65O](https://bit.ly/2UhS65O)
