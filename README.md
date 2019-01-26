@@ -24,5 +24,18 @@ For plotting different data distributions look at the notebook in [Data Details 
 ## Part 2: Distributions
 
 ## Part 3: Case Study
+We explore the [New York City Trip Duration](https://www.kaggle.com/c/nyc-taxi-trip-duration) dataset from kaggle and focus mainly on: 
+- cleaning the dataset by filtering out outlier values
+- exploring the relationship between two or more variables
+  - how is the trip duration related to different locations in NYC
+  - how does the trip duration change with time of week
+
+You can also work directly on kaggle (if you create a kaggle account) by forking [this jupyter notebook](https://www.kaggle.com/hobilek/nyc-trips-amld).
+
+
 
 ## Part 4: PCA
+
+Principal Component Analysis is a unsupervised machine learning technique used for multivariable exploratory data analysis and dimensionality reduction.
+
+Even though is a well established technique, its foundations are still explained in broken parts in the internet. This tutorial intends to join all the theoritical side and show how it connects with the practical applications.
