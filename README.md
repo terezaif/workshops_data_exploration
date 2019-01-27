@@ -5,7 +5,7 @@ In the second part we go in more detail on distributions, we go through the most
 In the third part we go through the NYC taxi dataset and explore data and clean and transform and see how this already helps with getting better models.
 In the last part we will look at what we do with high dimensionality data and how PCA works and how we can use it.
 
-## Part 1: Looking at the data
+## Part 1: Looking at the data [Slides](part_1/slides_1.pdf)
 
 In summary and in detail. For summary look we have two main ways: histogram and 5 number summary, which is visualised as a boxplot. 
 
@@ -21,7 +21,7 @@ Usually we try to compare a variable to another, for example height with age, th
 
 For plotting different data distributions look at the notebook in [Data Details and Relationships](notebooks/part_1/visualise_relationships.ipynb).
 
-## Part 2: Distributions
+## Part 2: Distributions [Slides](part_2/distribution_presentation.pdf)
 Understanding of the data distribution is importat, since it is empovering better models, proper tests, easier modelling process. For following 5 distributions we will show histogram, violine plot and qq-plot where it makes sense. We will explain how to make hypothesis about the distribution family based on the information from the graphs.
 Distributions are:
 - Normal (Continuous, symmetrical, symmetrical tails, no shift, no skew, two-sided)
@@ -45,7 +45,7 @@ You can also work directly on kaggle (if you create a kaggle account) by forking
 
 
 
-## Part 4: PCA
+## Part 4: PCA [Slides](part_4/Exploratory%20Data%20Analysis%20Workshop.pdf)
 
 Principal Component Analysis is a unsupervised machine learning technique used for multivariable exploratory data analysis and dimensionality reduction.
 
